@@ -4,14 +4,15 @@
 API EXAMPLE
 =============
 - POSTMAN COLLECTION LINK : https://www.getpostman.com/collections/0362ea821e963c36d070
-- *userValue* as input for how many user.
+- ```userValue``` as input for how many user.
 
 INSTALLATION
 =============
-- git clone
-- npm i
-- change the env variable [port] to suit your needs, like my case is *1001*. so that i need to access the api with [localhost:1001/api/card-shuffle]
+- git clone the repo
+- locate to the project directory then ``` npm i ```
+- you may change the ```env``` variable ```port``` to suit your needs, like my case is ```1001```. 
 - npm run start
+- now u can access the api with ```localhost:1001/api/card-shuffle```
 
 FEEDBACK
 ========
